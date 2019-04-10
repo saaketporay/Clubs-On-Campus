@@ -1,1 +1,1 @@
-# Clubs-On-Campus
+# Clubs On Campus
