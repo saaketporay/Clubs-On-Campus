@@ -1,3 +1,5 @@
 {
-  "clubs": []
+  "clubs": [
+    { "title": "Extended Reality Society", "description": "Club dedicated to VR/AR/MR", "academic": true, "abbreviation": "XRS", "tags": ["AR", "VR", "XRS", "VR", "Unity", "Magic Leap", "Snapchat", "Vive"], "website": "http://xrsutd.org", "contactEmail": "contact@xrsutd.org", "socialMedia": [{"site": "snapchat", "link": "null"}] },
+  ]
 }
