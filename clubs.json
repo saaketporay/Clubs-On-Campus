@@ -1,6 +1,0 @@
-{
-  "clubs": [
-    { "title": "Extended Reality Society", "description": "Club dedicated to VR/AR/MR", "academic": true, "abbreviation": "XRS", "tags": ["AR", "VR", "XRS", "VR", "Unity", "Magic Leap", "Snapchat", "Vive"], "website": "http://xrsutd.org", "contactEmail": "contact@xrsutd.org", "socialMedia": [{"site": "snapchat", "link": null}] },
-    { "title": "UT Design Makerspace", "description": "Campus makerspace with Free 3D printing, Viynl Cutting, and a great place to work on projects", "academic": true, "abbreviation": "UTD Makerspace", "tags": ["Makerspace", "3D Printing", "CNC", "arduino", "raspberry pi", "free"], "website": "http://utdmaker.space", "contactEmail": "utdmakerspace@gmail.com", "socialMedia": []},
-  ]
-}
