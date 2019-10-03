@@ -4,3 +4,5 @@
 - IEEE UTD - https://ieeeutd.org
 - ACM UTD - https://www.acmutd.co
 - Archery UTD - https://www.utdallas.edu/urec/competitive/club/
+- AI Society - https://aisutd.org
+- Artificial Intelligence Society - https://aisutd.org/
