@@ -5,3 +5,4 @@
 - ACM UTD - https://www.acmutd.co
 - Doki Doki Literature Club! - https://ddlc.moe/
 - Artificial Intelligence Society - https://aisutd.org/
+- Cameron Steele's Club - idk.com
