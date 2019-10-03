@@ -2,4 +2,4 @@
 - Extended Reality Society - https://xrs.utdmaker.space
 - Open UTD - https://lug.utdallas.edu
 - IEEE UTD - https://ieeeutd.org
-- ACM UTD - https://www.acmutd.co/
+- ACM UTD - https://www.acmutd.co
