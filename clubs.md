@@ -3,6 +3,7 @@
 - Open UTD - https://lug.utdallas.edu
 - IEEE UTD - https://ieeeutd.org
 - ACM UTD - https://www.acmutd.co
+- AI Society - https://aisutd.org
 - Doki Doki Literature Club! - https://ddlc.moe/
 - Artificial Intelligence Society - https://aisutd.org/
 - Cameron Steele's Club - idk.com
