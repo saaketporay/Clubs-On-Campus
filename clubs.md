@@ -3,3 +3,4 @@
 - Open UTD - https://lug.utdallas.edu
 - IEEE UTD - https://ieeeutd.org
 - ACM UTD - https://www.acmutd.co
+- AIAA UTD - https://www.aiaautdallas.com
